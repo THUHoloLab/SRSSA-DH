@@ -1,6 +1,8 @@
 Matlab code for the following works
 
-Faithful digital holographic reconstruction using a sparse sensor array
+Zhengzhong Huang and Liangcai Cao, "Faithful digital holographic reconstruction using a sparse sensor array," Applied Physics Letters 117, 031105 (2020).
+
+https://aip.scitation.org/doi/abs/10.1063/5.0009191
 
 Zhengzhong Huang (hzz19@mails.tsinghua.edu.cn)
 
